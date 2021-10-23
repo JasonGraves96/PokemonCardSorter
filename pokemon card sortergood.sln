@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon card sortergood", "pokemon card sortergood\pokemon card sortergood.csproj", "{9080898B-6455-469C-ACAD-AD8E2C9A894A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9080898B-6455-469C-ACAD-AD8E2C9A894A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9080898B-6455-469C-ACAD-AD8E2C9A894A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9080898B-6455-469C-ACAD-AD8E2C9A894A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9080898B-6455-469C-ACAD-AD8E2C9A894A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736CA75E-85B0-4412-93E5-EE5545B258FC}
+	EndGlobalSection
+EndGlobal

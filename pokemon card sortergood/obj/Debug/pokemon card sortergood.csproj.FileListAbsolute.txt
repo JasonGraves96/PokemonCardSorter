@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon card sortergood.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon_card_sortergood.Form1.resources
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon_card_sortergood.Properties.Resources.resources
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon card sortergood.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon card sortergood.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\bin\Debug\pokemon card sortergood.exe.config
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\bin\Debug\pokemon card sortergood.exe
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\bin\Debug\pokemon card sortergood.pdb
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon card sortergood.exe
+C:\Users\Jason\source\repos\pokemon card sortergood\pokemon card sortergood\obj\Debug\pokemon card sortergood.pdb
